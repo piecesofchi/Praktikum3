@@ -29,4 +29,4 @@ for num in bilangan:
 print("Bilangan terbesar adalah:", bilangan_terbesar)
 
 Flowchart
-![img]screenshot/ss2.jpeg
+![Gambar 1](screenshot/ss2.jpeg)
